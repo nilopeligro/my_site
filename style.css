@@ -1,8 +1,14 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    margin: auto;
-    width: 90%;
+    margin: 0;
+    padding: 0;
+    width: 100%;
     background-color: #f6f6f6;
+}
+header {
+    background-color: goldenrod;
+    height: 50px;
+    margin-top: -16px;
 }
 header ul > li {
     display: inline-flex;
@@ -10,8 +16,12 @@ header ul > li {
 header li {
     padding: 0px 10px 0px 10px;
     font-size: 20px;
+    padding-top: 10px;
 }
 header a {
     text-decoration: none;
     color: #000;
+}
+.container {
+    text-align: center;
 }
