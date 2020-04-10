@@ -25,3 +25,6 @@ header a {
 .container {
     text-align: center;
 }
+.services_list {
+    display: inline-flex;
+}
