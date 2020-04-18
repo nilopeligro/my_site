@@ -28,3 +28,7 @@ header a {
 .services h3 {
     display: inline-flex;
 }
+
+.about {
+    background-color: #f4f4f4;
+}
