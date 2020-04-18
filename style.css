@@ -32,3 +32,6 @@ header a {
 .about {
     background-color: #f4f4f4;
 }
+form input{
+    border-radius: 5px;
+}
